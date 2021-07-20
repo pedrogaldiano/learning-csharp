@@ -1,0 +1,9 @@
+/home/pedro/learning-csharp/csintro/IntroLibrary/bin/Debug/netstandard2.0/IntroLibrary.deps.json
+/home/pedro/learning-csharp/csintro/IntroLibrary/bin/Debug/netstandard2.0/IntroLibrary.dll
+/home/pedro/learning-csharp/csintro/IntroLibrary/bin/Debug/netstandard2.0/IntroLibrary.pdb
+/home/pedro/learning-csharp/csintro/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.csprojAssemblyReference.cache
+/home/pedro/learning-csharp/csintro/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.AssemblyInfoInputs.cache
+/home/pedro/learning-csharp/csintro/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.AssemblyInfo.cs
+/home/pedro/learning-csharp/csintro/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.csproj.CoreCompileInputs.cache
+/home/pedro/learning-csharp/csintro/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.dll
+/home/pedro/learning-csharp/csintro/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.pdb

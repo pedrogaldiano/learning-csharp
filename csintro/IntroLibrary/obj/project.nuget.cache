@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5lzb78pAZq732Ye53GeacXjX/qU2th8Ngf60cC75XpCQGXtmcCvbQlkCMSv8FnMoqDnBp5/5C+Vq9uzSncWiNQ==",
+  "success": true,
+  "projectFilePath": "/home/pedro/learning-csharp/csintro/IntroLibrary/IntroLibrary.csproj",
+  "expectedPackageFiles": [
+    "/home/pedro/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/pedro/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

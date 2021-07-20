@@ -1,0 +1,16 @@
+/home/pedro/learning-csharp/csintro/IntroUI/bin/Debug/netcoreapp3.1/IntroUI
+/home/pedro/learning-csharp/csintro/IntroUI/bin/Debug/netcoreapp3.1/IntroUI.deps.json
+/home/pedro/learning-csharp/csintro/IntroUI/bin/Debug/netcoreapp3.1/IntroUI.runtimeconfig.json
+/home/pedro/learning-csharp/csintro/IntroUI/bin/Debug/netcoreapp3.1/IntroUI.runtimeconfig.dev.json
+/home/pedro/learning-csharp/csintro/IntroUI/bin/Debug/netcoreapp3.1/IntroUI.dll
+/home/pedro/learning-csharp/csintro/IntroUI/bin/Debug/netcoreapp3.1/IntroUI.pdb
+/home/pedro/learning-csharp/csintro/IntroUI/bin/Debug/netcoreapp3.1/IntroLibrary.dll
+/home/pedro/learning-csharp/csintro/IntroUI/bin/Debug/netcoreapp3.1/IntroLibrary.pdb
+/home/pedro/learning-csharp/csintro/IntroUI/obj/Debug/netcoreapp3.1/IntroUI.csprojAssemblyReference.cache
+/home/pedro/learning-csharp/csintro/IntroUI/obj/Debug/netcoreapp3.1/IntroUI.AssemblyInfoInputs.cache
+/home/pedro/learning-csharp/csintro/IntroUI/obj/Debug/netcoreapp3.1/IntroUI.AssemblyInfo.cs
+/home/pedro/learning-csharp/csintro/IntroUI/obj/Debug/netcoreapp3.1/IntroUI.csproj.CoreCompileInputs.cache
+/home/pedro/learning-csharp/csintro/IntroUI/obj/Debug/netcoreapp3.1/IntroUI.csproj.CopyComplete
+/home/pedro/learning-csharp/csintro/IntroUI/obj/Debug/netcoreapp3.1/IntroUI.dll
+/home/pedro/learning-csharp/csintro/IntroUI/obj/Debug/netcoreapp3.1/IntroUI.pdb
+/home/pedro/learning-csharp/csintro/IntroUI/obj/Debug/netcoreapp3.1/IntroUI.genruntimeconfig.cache
