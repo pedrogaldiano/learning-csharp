@@ -1,0 +1,9 @@
+/home/pedro/learning-csharp/testcs/TestLib/bin/Debug/netstandard2.0/TestLib.deps.json
+/home/pedro/learning-csharp/testcs/TestLib/bin/Debug/netstandard2.0/TestLib.dll
+/home/pedro/learning-csharp/testcs/TestLib/bin/Debug/netstandard2.0/TestLib.pdb
+/home/pedro/learning-csharp/testcs/TestLib/obj/Debug/netstandard2.0/TestLib.csprojAssemblyReference.cache
+/home/pedro/learning-csharp/testcs/TestLib/obj/Debug/netstandard2.0/TestLib.AssemblyInfoInputs.cache
+/home/pedro/learning-csharp/testcs/TestLib/obj/Debug/netstandard2.0/TestLib.AssemblyInfo.cs
+/home/pedro/learning-csharp/testcs/TestLib/obj/Debug/netstandard2.0/TestLib.csproj.CoreCompileInputs.cache
+/home/pedro/learning-csharp/testcs/TestLib/obj/Debug/netstandard2.0/TestLib.dll
+/home/pedro/learning-csharp/testcs/TestLib/obj/Debug/netstandard2.0/TestLib.pdb
