@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fSXudqF/1QaA+IU+2tewSkoh8OgFqwv7vGvL711Qkcku/uHfpc++GALaVWJG/kb885Yy5rBiwOWCLN955CWzGw==",
+  "success": true,
+  "projectFilePath": "/home/pedro/learning-csharp/NumberGuessing/Library/Library.csproj",
+  "expectedPackageFiles": [
+    "/home/pedro/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/pedro/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

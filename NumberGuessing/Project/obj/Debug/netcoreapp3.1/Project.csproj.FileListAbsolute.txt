@@ -1,0 +1,13 @@
+/home/pedro/learning-csharp/NumberGuessing/Project/obj/Debug/netcoreapp3.1/Project.csprojAssemblyReference.cache
+/home/pedro/learning-csharp/NumberGuessing/Project/obj/Debug/netcoreapp3.1/Project.AssemblyInfoInputs.cache
+/home/pedro/learning-csharp/NumberGuessing/Project/obj/Debug/netcoreapp3.1/Project.AssemblyInfo.cs
+/home/pedro/learning-csharp/NumberGuessing/Project/obj/Debug/netcoreapp3.1/Project.csproj.CoreCompileInputs.cache
+/home/pedro/learning-csharp/NumberGuessing/Project/bin/Debug/netcoreapp3.1/Project
+/home/pedro/learning-csharp/NumberGuessing/Project/bin/Debug/netcoreapp3.1/Project.deps.json
+/home/pedro/learning-csharp/NumberGuessing/Project/bin/Debug/netcoreapp3.1/Project.runtimeconfig.json
+/home/pedro/learning-csharp/NumberGuessing/Project/bin/Debug/netcoreapp3.1/Project.runtimeconfig.dev.json
+/home/pedro/learning-csharp/NumberGuessing/Project/bin/Debug/netcoreapp3.1/Project.dll
+/home/pedro/learning-csharp/NumberGuessing/Project/bin/Debug/netcoreapp3.1/Project.pdb
+/home/pedro/learning-csharp/NumberGuessing/Project/obj/Debug/netcoreapp3.1/Project.dll
+/home/pedro/learning-csharp/NumberGuessing/Project/obj/Debug/netcoreapp3.1/Project.pdb
+/home/pedro/learning-csharp/NumberGuessing/Project/obj/Debug/netcoreapp3.1/Project.genruntimeconfig.cache
